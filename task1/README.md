@@ -1,4 +1,5 @@
 Result:
+![Image alt](https://github.com/DmitryKramich/datadog/blob/master/task1/imgs/6.png)
 
 1) Created custom web-app metric
 ![Image alt](https://github.com/DmitryKramich/datadog/blob/master/task1/imgs/1%20web-metrick.png)
